@@ -1,4 +1,4 @@
-# Useful information to know before investing on Airbnb in Seattle
+# Useful information to know before investing in Airbnb in Seattle
 
 
 ### Project Motivation
