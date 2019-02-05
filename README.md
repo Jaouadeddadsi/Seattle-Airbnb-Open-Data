@@ -22,5 +22,10 @@ This project requires **Python 3.x** and the following Python libraries installe
 - Data :  * listings.csv, including full descriptions and average review score.  *Reviews.csv, including unique id for each reviewer and detailed comments * Calendar.csv, including listing id and the price and availability for that day.
 - Tree jupyter notebooks each one answer a question.
 
-### Licence
+### Summary of results
+The results of the analysis are summarised in a blog post here: [Three things you should know before investing in Airbnb in seattle](https://medium.com/@jaouadeddadsi2016/three-things-you-should-know-before-investing-in-airbnb-in-seattle-8013b25cd4e2)
+
+### Licenses and Acknowledgements
+I would like to thank Udacity courses for some of code ideas, and to kaggle/AirBnb for the data.
+
 Feel free to use the code and let me know if the model can be improved.
